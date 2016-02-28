@@ -38,7 +38,7 @@
 #endif
 #define GO_UNUSED __attribute__((unused))
 #define GO_VERSION 		"0.9.7"
-#define GO_WEBSITE 		"http://goaccess.io/"
+#define GO_WEBSITE 		"https://rhein.technology/"
 struct tm *now_tm;
 
 /* debug log */
